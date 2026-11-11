@@ -1,0 +1,16 @@
+body{ 
+    margin: 0;
+    pedding: 20px;
+    font-family: arital, sans-serif;
+    background-color: lavender;
+    color: #333;
+}
+
+h1{
+    background-color: purple;
+    color: white;
+    text-align: center;
+    pedding: 25px;
+    border-radius: 10px;
+
+}
