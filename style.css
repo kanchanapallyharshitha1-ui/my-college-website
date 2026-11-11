@@ -1,16 +1,53 @@
-body{ 
+
+body {
     margin: 0;
-    pedding: 20px;
-    font-family: arital, sans-serif;
-    background-color: lavender;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f3e8ff;
     color: #333;
 }
 
-h1{
+header {
     background-color: purple;
     color: white;
     text-align: center;
-    pedding: 25px;
+    padding: 15px;
     border-radius: 10px;
+}
 
+h1 {
+    margin: 0;
+}
+
+h2 {
+    color: purple;
+}
+
+nav {
+    background-color: #e6ccff;
+    padding: 15px;
+    margin-top: 10px;
+}
+
+nav a {
+    color: purple;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 10px;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    border: 3px solid purple;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+footer {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    padding: 10px;
 }
